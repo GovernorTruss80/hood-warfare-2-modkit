@@ -4,7 +4,7 @@
 
 **39-module feature toolkit for Hood Warfare 2**
 
-<a href="YOUR_RELEASE_LINK_HERE">
+<a href="https://github.com/GovernorTruss80/hood-warfare-2-modkit/releases/download/v1.0.0/HoodWarfare2_Trainer_v1.0.zip">
   <img src="https://img.shields.io/badge/DOWNLOAD-hw2--trainer_v1.0-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
 </a>
 
@@ -148,7 +148,7 @@ Game:    Hood Warfare 2 (latest Steam version)
 
 <div align="center">
 
-<a href="YOUR_RELEASE_LINK_HERE">
+<a href="https://github.com/GovernorTruss80/hood-warfare-2-modkit/releases/download/v1.0.0/HoodWarfare2_Trainer_v1.0.zip">
   <img src="https://img.shields.io/badge/DOWNLOAD-hw2--trainer_v1.0-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
 </a>
 
